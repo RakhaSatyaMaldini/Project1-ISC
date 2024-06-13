@@ -1,0 +1,25 @@
+.banner {
+  background: url('https://img.freepik.com/free-vector/delivery-service-with-masks-concept_23-2148509518.jpg?t=st=1718177468~exp=1718181068~hmac=948847fa3c850d20586195700a904b0b84f9a63ab22131db041c1b995c344be4&w=1060') no-repeat center
+    center;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  color: black;
+}
+
+.crop-img {
+  object-fit: cover;
+}
+
+.staff img {
+  width: 250px;
+  border: 10px solid #cccc;
+}
+
+.kontak {
+  background: url('https://wallpaperaccess.com/full/1867010.jpg') no-repeat center center;
+  background-size: cover;
+  padding-bottom: 20%;
+  padding-top: 20%;
+  color: #fff;
+}
